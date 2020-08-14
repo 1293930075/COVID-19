@@ -1,5 +1,10 @@
 # covid-19
 
+## 关于地图配置手册参考Echarts
+```
+https://www.echartsjs.com/zh/api.html
+```
+
 ## Project setup
 ```
 npm install
