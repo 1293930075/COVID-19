@@ -19,9 +19,9 @@ import jsonp from "jsonp";
 const option = {
     title: {
         text: "疫情感染分布图",
-        link: "https://www.baidu.com", // 标题链接
+        link: "https://github.com/1293930075/COVID-19", // 标题链接
         subtext: "数据来源与新浪，仅供学习参考，鸣谢～",
-        sublink: "https://www.baidu.com" // 描述链接
+        sublink: "https://github.com/1293930075/COVID-19" // 描述链接
     },
     tooltip: {
         trigger: "item"
