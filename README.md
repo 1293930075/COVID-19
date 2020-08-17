@@ -1,13 +1,12 @@
 # covid-19
 
 ## 关于地图配置手册参考Echarts
-```
+
 https://www.echartsjs.com/zh/api.html
-```
+
 ## demo 浏览链接
-、、、
+
 https://1293930075.github.io/covid-19./
-、、、
 
 ## Project setup
 ```
