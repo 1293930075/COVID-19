@@ -1,11 +1,7 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: Henry
- * @Date: 2019-09-19 22:29:28
- * @LastEditors: Henry
- * @LastEditTime: 2020-02-16 15:31:02
- -->
+/**
+ * @description:  2019 - 09 - 19 22: 29: 28
+ * @return {*}
+ */
 <template>
     <div id="app">
         <div ref="mapBox" style="width:100%;height:800px;margin:0 auto"></div>
